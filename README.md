@@ -1,6 +1,3 @@
-# Devops-Project- Ansible Server Automation and Deployment on K8
-
-
 ===============================Jenkins Installation==================================
 https://www.jenkins.io/doc/book/installing/linux/
 https://www.jenkins.io/doc/tutorials/tutorial-for-installing-jenkins-on-AWS/
